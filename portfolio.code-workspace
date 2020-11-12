@@ -1,7 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "../docker/course/frontend"
+			"path": "."
 		}
 	],
 	"settings": {}
