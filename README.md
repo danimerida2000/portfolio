@@ -1,2 +1,2 @@
 # portfolio
-Portfolio of courses received on different platforms such as Udemy, Coursera, etc.
+Project portfolio of courses received in different platforms such as Udemy, Coursera, etc.
