@@ -1,3 +1,6 @@
 [submodule "Docker-and-Kubernetes-The-Complete-Guide"]
 	path = Docker-and-Kubernetes-The-Complete-Guide
 	url = https://github.com/danimerida2000/Docker-and-Kubernetes-The-Complete-Guide.git
+[submodule "Knowledge base"]
+	path = Knowledge base
+	url = https://github.com/danimerida2000/Knowledge-base
